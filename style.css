@@ -1,0 +1,14 @@
+img {
+  width: 100%;
+
+}
+.column {
+  float: left;
+  width: 15%;
+  padding:25px;
+}
+.column img {
+  margin-top: 10px;
+}
+
+	 	
